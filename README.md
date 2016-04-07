@@ -1,3 +1,4 @@
+
 # CombinedError
 
 Zero dependencies error that allow to combine other errors in cause chains.

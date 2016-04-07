@@ -1,9 +1,20 @@
 {
   "name": "combined-error",
   "version": "1.0.0",
-  "description": "Simple zero dependencies error, combining other errors, and ensures to have correct stack always",
+  "description": "Simple zero dependencies error for combining other errors, which ensures to have correct stack always",
   "main": "index.js",
-  "keywords": ["error", "combined error", "cause"],
+  "keywords": [
+    "error",
+    "combined error",
+    "cause"
+  ],
   "author": "Denis Bardadym <bardadymchik@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btd/combined-error/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btd/combined-error.git"
+  }
 }
